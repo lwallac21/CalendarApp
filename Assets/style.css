@@ -1,0 +1,27 @@
+li {
+    list-style-type: none;
+}
+#times li {
+    padding: 2.5px;
+}
+
+.borders {
+    border: solid 1px black;
+}
+
+
+.passed {
+    background-color: rgb(245, 151, 151);
+}
+
+.current {
+    background-color: rgb(57, 202, 52);
+}
+
+.future {
+    background-color: lightblue;
+}
+
+input {
+    border: none;
+}
